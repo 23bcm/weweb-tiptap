@@ -1,0 +1,10 @@
+{
+  "name": "tiptap-editor",
+  "version": "1.0.0",
+  "dependencies": {
+    "@tiptap/react": "^2.0.0-beta.151",
+    "@tiptap/starter-kit": "^2.0.0-beta.164",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
