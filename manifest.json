@@ -1,0 +1,14 @@
+{
+  "name": "TiptapEditor",
+  "displayName": "Tiptap Editor",
+  "description": "Editeur avec balises dynamiques",
+  "props": {
+    "content": {
+      "type": "string",
+      "default": "<p>Écris ici ton contenu…</p>"
+    },
+    "onChange": {
+      "type": "function"
+    }
+  }
+}
